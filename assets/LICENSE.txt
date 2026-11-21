@@ -1,0 +1,3 @@
+PyCraft External Assets
+Textures & OGG sounds downloaded from luanti-org/minetest_game
+https://github.com/luanti-org/minetest_game (CC BY-SA 3.0 / CC0)

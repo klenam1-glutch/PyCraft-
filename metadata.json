@@ -1,0 +1,6 @@
+{
+  "name": "PyCraft — Minecraft in Python for Pydroid 3",
+  "description": "A complete 3D voxel Minecraft game written in pure Python for the Pydroid 3 Android app, with touch controls, procedural terrain, day/night cycle, and dual Pygame + Tkinter engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
